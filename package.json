@@ -1,0 +1,14 @@
+{
+  "name": "dealls-cypress",
+  "version": "1.0.0",
+  "description": "QA Software Engineer HRIS Case Study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cahya Putra Ugira",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.3.1"
+  }
+}
