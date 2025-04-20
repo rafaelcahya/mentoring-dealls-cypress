@@ -53,4 +53,7 @@ Although all tests passed consistently on local, they kept failing on GitHub Act
 
 Despite all these efforts, the test continues to fail only in GitHub Actions — while always passing in local environments. This indicates it’s likely a race condition or headless rendering issue
 
+### Additional Submission
 
+I have also uploaded another file as part of this technical test:
+Cahya Putra Ugira – SDET – Dealls.pdf
